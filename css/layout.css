@@ -24,4 +24,11 @@
 
 /* Posititoning Classes */
 
+/* Columns Layout */
+
+.col-1 {
+  float: left;
+  width: 32%;
+}
+
 
